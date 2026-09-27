@@ -176,7 +176,7 @@ export default function ContactPage() {
             <div className="lg:col-span-5 space-y-12">
               <div className="grid grid-cols-1 gap-8">
                 {[
-                  { icon: "mail", title: "Email Us", details: ["connect@aviatech.com", "support@aviatech.com"] },
+                  { icon: "mail", title: "Email Us", details: ["info@aviatech.com", "support@aviatech.com"] },
                   { icon: "call", title: "Call Our Office", details: ["+1 (555) 890-4422", "Mon - Fri, 9am - 6pm EST"] },
                   { icon: "location_on", title: "Global Headquarters", details: ["1200 Innovation Way, Suite 400", "Aerospace District, Seattle, WA 98101"] },
                 ].map((item, i) => (
