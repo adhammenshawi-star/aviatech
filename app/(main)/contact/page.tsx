@@ -177,7 +177,7 @@ export default function ContactPage() {
               <div className="grid grid-cols-1 gap-8">
                 {[
                   { icon: "mail", title: "Email Us", details: ["info@aviatech.com", "support@aviatech.com"] },
-                  { icon: "call", title: "Call Our Office", details: ["+1 (555) 890-4422", "Mon - Fri, 9am - 6pm EST"] },
+                  { icon: "call", title: "Call Our Office", details: ["+2 01006983908", "Mon - Fri, 9am - 6pm EST"] },
                   { icon: "location_on", title: "Our Office", details: ["Office 208, Plus Mall, South Investors Area", "Fifth Settlement, New Cairo, Cairo, Egypt"] },
                 ].map((item, i) => (
                   <motion.div
